@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.shi.Demo&apos; to &apos;PrimeFactorial&apos;&#x0D;&#x0A;- Original project: &apos;day2 Assignment&apos;&#x0D;&#x0A;- Original element: &apos;com.shi.Demo&apos;&#x0D;&#x0A;- Renamed element: &apos;com.shi.PrimeFactorial&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Demo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.shi{Demo.java[Demo" matchStrategy="1" name="PrimeFactorial" qualified="false" references="true" similarDeclarations="false" stamp="1652804529304" textual="false" version="1.0"/>
+</session>
